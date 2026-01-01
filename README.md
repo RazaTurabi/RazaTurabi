@@ -39,9 +39,9 @@ I am a passionate **Frontend & Full-Stack Developer** skilled in **React.js, Nex
 ---
 
 ## 🌐 Projects
-- **[Project 1 Name](#)** – Description with technologies used  
-- **[Project 2 Name](#)** – Description with technologies used  
-- **[Project 3 Name](#)** – Description with technologies used  
+- **[Codepeek Studio](#)** – Codepeek Studio is a modern web design company focused on building high-performance websites.  
+- **[Sopranos Studio](#)** – Description with technologies used  
+- **[Personal Portfolio](#)** – Description with technologies used  
 
 Check full projects [here](https://github.com/RazaTurabi?tab=repositories)
 
